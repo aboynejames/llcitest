@@ -17,7 +17,7 @@ class MyClass {
     public function nothing ()
     {
 
-    return 16;      
+    return 161673;      
 
     }
 
