@@ -10,6 +10,16 @@ class MyClass {
         }
         return 0;
     }
+
+/**
+*empty comment
+*/
+    public function testnothing ()
+    {
+
+
+    }
+
 }
 
 ?>
