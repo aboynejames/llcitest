@@ -11,12 +11,13 @@ class MyClass {
         return 0;
     }
 
-/**
+/**e
 *empty comment
 */
     public function nothing ()
     {
 
+    return 1;      
 
     }
 
