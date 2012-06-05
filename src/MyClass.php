@@ -14,7 +14,7 @@ class MyClass {
 /**
 *empty comment
 */
-    public function testnothing ()
+    public function nothing ()
     {
 
 
