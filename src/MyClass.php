@@ -1,6 +1,6 @@
 <?php
 /**
-*  adding a comment
+*  comment is changed to this 
 */
 
 class MyClass {
